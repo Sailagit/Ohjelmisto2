@@ -15,3 +15,15 @@ Tehdyt tehtävät:
 **Yhteensä 11p**
 
 Kaikki kansion JS-moduulin 1 ja 2 html tiedostot läpäisivät validator testin.
+
+### JS-moduuli 3
+
+Tehdyt tehtävät:
+
+-Tehtävä 3: 2 p
+-Tehtävä 5: 2 p
+-Tehtävä 4: 2 p
+-Tehtävä 1: 2 p
+-Tehtävä 2: 2 p
+
+**Yhteensä 10p**
