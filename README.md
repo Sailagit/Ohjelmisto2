@@ -34,7 +34,7 @@ Kaikki kansion JS-moduuli 3 tiedostot läpäisivät validator testin.
 
 ### JS-moduuli 4
 
-linkki
+[Linkki JS-moduulin 4 kansioon user.metropolia.fi-palvelussa](https://users.metropolia.fi/~sailk/JS-moduuli_4/)
 
 Tehdyt tehtävät:
 
